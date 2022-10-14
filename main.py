@@ -203,3 +203,12 @@ phrase = "Salut les dev"
 nouvelle_phrase = phrase.replace("Salut", "Bonsoir")
 print(nouvelle_phrase)
 
+#extraction
+print(nom[:5])
+print(nom[5:])
+print(nom[2:5])
+
+#exemple
+mon_nom_fois_4 = mon_nom * 4
+print(mon_nom_fois_4)
+
